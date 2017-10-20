@@ -34,18 +34,19 @@ Stuff that we are focus on:
 - DEMO |
 ---
 ### 2. DFP UI WIZARD 
-- For Adunits creation, we now have a DFP UI Wizard for this. Thanks Mikhail!
+- For Adunits creation, we now have a DFP UI Wizard for this. Thanks Mikhail! |
 ---
 ### OTHER IMPROVEMENTS
 - This is the initial sprint when we try to use staging stream for weekly deployment to prod |
 - Master credential is now in DFP credentials page. Thanks Anton! |
 - Site filtering in fetchers are improved (we have lots of them! Thanks Jino!)and we have around 30 tasks again for this |
 - Currency is now using better algorithm. Thanks Vital! |
+---
 - We now already use a 3rd party service to decode captcha. For now it's beign used in AWS fetcher |
 - Lots of fetchers fixes |
 ---
 ### THAT'S ALL
 - Improvement for next sprint, will be to evaluate our strength (in term of story points in this sprint), and try to calculate better estimates |
 - We kinda misses the pair programming session. This probably need to be done in the first week of the sprint |
-- Overall, we still have lots of area to improve for the next sprints!
+- Overall, we still have lots of area to improve for the next sprints! |
 - Thanks folks!|
