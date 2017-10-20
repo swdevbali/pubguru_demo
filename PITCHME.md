@@ -13,7 +13,8 @@
 - * QA 24 |
 - * OH 8 |
 - * DEV 56 |
-- So it's actually we left over with 64 story point | 
+- So it's actually we left over with only 64 story point |
+- And the remaining 98 story points is in last cleanup process | 
 
 ---
 <img src="chart.png" />
