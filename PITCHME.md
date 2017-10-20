@@ -9,3 +9,9 @@
 ### SPRINT CONCLUSION
 - 104 issues were done |
 - 12 issues were incomplete |
+
+---
+<img src="chart.png" />
+---
+### NOTABLE EVENT
+- 9 October 2017 
