@@ -8,12 +8,20 @@
 ---
 ### SPRINT CONCLUSION
 - 104 issues were done |
-- 12 issues were incomplete |
+- 12 issues were incomplete (146 story points): |
+- * CR 74 |
+- * QA 24 |
+- * OH 8 |
+- * DEV 56 |
+- So it's actually we left over with 64 story point | 
 
 ---
 <img src="chart.png" />
 ---
 <img src="burn.png" />
 ---
-### NOTABLE EVENT
-- 9 October 2017 
+### NOTABLE EVENT: 9 October 2017
+Stuff that we are focus on:
+- Notifications improvement |
+- DFP UI Wizard |
+- Consolidated report |
