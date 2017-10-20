@@ -13,5 +13,7 @@
 ---
 <img src="chart.png" />
 ---
+<img src="burn.png" />
+---
 ### NOTABLE EVENT
 - 9 October 2017 
