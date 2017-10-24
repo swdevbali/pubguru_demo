@@ -42,7 +42,7 @@ Stuff that we are focus on:
 - Site filtering in fetchers are improved (we have lots of them! Thanks Jino!)and we have around 30 tasks again for this |
 - Currency is now using better algorithm. Thanks Vital! |
 ---
-- We now already use a 3rd party service to decode captcha. For now it's beign used in AWS fetcher |
+- We now already use a 3rd party service to decode captcha. For now it's being used in AWS fetcher |
 - Lots of fetchers fixes |
 ---
 ### THAT'S ALL
