@@ -3,22 +3,20 @@
 
 <img src="pg.png" alt="PuBGuru"/>
 
-###### Sprint 37 (3 weeks)
+###### Sprint 37 (4 weeks)
 ###### MonetizeMore.com
 ---
 ### SPRINT CONCLUSION
 - In total we work with 902 story points
-- xx issues were done |
-- xx issues were incomplete (146 story points): |
-- * CR xx |
-- * QA xx |
-- * OH xx |
-- * DEV xx |
-- So it's actually we left over with only xx story point |
-- And the remaining xx story points is in last cleanup process | 
+- 102 issues were done |
+- 30 issues were incomplete (292 story points) |
+- * CR = 3 tickets, 88 story points |
+- * QA = 7 tickets, 108 story points  |
+- * DEV = 5 tickets, 96 |
+- In last sprint we left with 12 issues (146 story points) |
 
 ---
-Chart closing
+<img src="sprint37end.png"/>
 ---
 Burnchart
 ---
