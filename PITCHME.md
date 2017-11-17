@@ -30,6 +30,7 @@ All and all, these are the features that has been implemented in this sprint:
 - DFP Wizard improvements |
 - Notifications improvements: filtering notifications based on user related pubs  |
 - Pubguru Session/pageview columns in pubguru total/discrepancy reports |
+- Lots of backend/server improvements |
 ---
 ### THAT'S ALL FOLKS!
 - We still have lots of room for improvements for the next sprints! |
