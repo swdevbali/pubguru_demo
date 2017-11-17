@@ -21,12 +21,12 @@
 In this sprint, we introduce a *new beast* to our workflow pipeline: we automate fetcher issues to be JIRA task automatically, instead of just dumping it to Sentry.
 While this is awesome in term of we can handled fetchers bugs promptly (previously we need to manually check email/sentry, which we do this occasionally), 
 but this affect our strength in closing story points, as bugs are not counted as story points.
-
+---
 In the next sprint, we will try managing this better, so that we are not solely treating fetchers bug as *bug*, but some of them should be converted to story points task, 
 and may also introducing prioritization of fetchers bug handling, in term of biggest publisher revenue/premium pubs. 
-
+---
 All and all, these are the features that has been implemented in this sprint:
-
+---
 - DFP Wizard improvements |
 - Notifications improvements: filtering notifications based on user related pubs  |
 - Pubguru Session/pageview columns in pubguru total/discrepancy reports |
