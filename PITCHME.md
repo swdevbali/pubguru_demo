@@ -23,7 +23,7 @@ Good news for fetcher bug handling: it seems like as if we handle fetcher bugs m
 now in this sprint, we only encounter smaller number of them. Only 4 of them, while last sprint we handle around 20 of them. 
 ---
 For fetcher bug handling, we are developing a fetcher prioritization index, so that we can handle fetcher bug in a better way,
-by designating importancy for fetchers based on the ad network last 30 days revenue divided by 30 .    
+by designating importance for fetchers based on the ad network last 30 days revenue divided by 30 .    
 ---
 All and all, these are the major features that has been implemented in this sprint:
 ---
