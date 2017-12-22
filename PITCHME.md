@@ -20,19 +20,19 @@
 ---
 ### FEATURES WRAP UP
 Good news for fetcher bug handling: it seems like as if we handle fetcher bugs more aggresively last sprint, 
-now in this sprint. We only encounter smaller number of them. Only 4 of them, while last sprint we handle around 20 of them. 
+now in this sprint, we only encounter smaller number of them. Only 4 of them, while last sprint we handle around 20 of them. 
 ---
 For fetcher bug handling, we are developing a fetcher prioritization index, so that we can handle fetcher bug in a better way,
-by designating fetcher importancy.    
+by designating importancy for fetchers based on the ad network last 30 days revenue divided by 30 .    
 ---
 All and all, these are the major features that has been implemented in this sprint:
 ---
-- Migrating Configurator from tools into pubguru per publisher |
-- Notifications improvements: filtering notifications based on user related pubs and we already have notification template for adops to use  |
+- Migrating Configurator from tools into pubguru |
+- Notifications improvements: (1) filtering notifications based on user related pubs and (2) we already have notification template for adops to use  |
 - As usual, lots of backend/server improvements |
 ---
 ### THAT'S ALL FOLKS!
 - As usual, we still have lots of room for improvement.|
-- Mainly the way we do Code Review,as that phase is the longest to take and may block our speed of acquiring story points for the current sprint. 
-Probably, as suggessted by Anton, we should make Friday as the official day of Code Review-ing.  |
+- Mainly the way we do Code Review need to be improved, as that phase is the longest to take and may block our speed of acquiring story points for a sprint. | 
+- Probably, as suggessted by Anton, we can make Friday as the official day of Code Review-ing.  |
 - Also, now we are deploying new features to production every early Monday |
