@@ -3,19 +3,20 @@
 
 <img src="pg.png" alt="PuBGuru"/>
 
-###### Sprint 37 (4 weeks)
+###### Sprint 38 (4 weeks)
 ###### MonetizeMore.com
 ---
 ### SPRINT CONCLUSION
-- In total we work with 902 story points
-- 102 issues were done |
-- 30 issues were incomplete (292 story points) |
-- * CR = 3 tickets, 88 story points |
-- * QA = 7 tickets, 108 story points  |
-- * DEV = 5 tickets, 96 |
-- In last sprint we left with 12 issues (146 story points) |
+- In total we work with 554 story points
+- 69 issues were done |
+- 8 issues were incomplete (107 story points) |
+- * ON HOLD = 1 ticket, 32 story points | 
+- * CR = 2, 32 story points |
+- * QA = 4, 56 story points  |
+- * DEV = 1|
+- In last sprint we left with 30 issues (292 story points) |
 ---
-<img src="sprint37lastburn.png"/>
+<img src="sprint38burn.png"/>
 ---
 ### FEATURES WRAP UP
 In this sprint, we introduce a *new beast* to our workflow pipeline: we automate fetcher issues to be JIRA task automatically, instead of just dumping it to Sentry.
