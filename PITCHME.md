@@ -3,36 +3,35 @@
 
 <img src="pg.png" alt="PuBGuru"/>
 
-###### Sprint 38 (4 weeks)
+###### Sprint 39, Sprint 40 (@ 2 weeks)
 ###### MonetizeMore.com
 ---
 ### SPRINT CONCLUSION
-- In total we work with 554 story points
-- 69 issues were done |
+- In Sprint 40 we work with 292 story points
+- We have been completing 184 story points |
 - 8 issues were incomplete (107 story points) |
-- * ON HOLD = 1 ticket, 32 story points | 
-- * CR = 2 ticket, 32 story points |
-- * QA = 4 ticket, 56 story points  |
-- * DEV = 1 ticket, bug |
-- In last sprint we left with 30 issues (292 story points) |
+- * QA = 5 ticket|
+- * DEV = 4 ticket|
 ---
-<img src="sprint38burn.png"/>
+<img src="sprint40burn.png"/>
 ---
 ### FEATURES WRAP UP
-Good news for fetcher bug handling: it seems like as if we handle fetcher bugs more aggresively last sprint, 
-now in this sprint, we only encounter smaller number of them. Only 4 of them, while last sprint we handle around 20 of them. 
+We keep streamlining our Sentry to Jira automation, and the result getting better. Less duplication, 
+so the Jira backlog is more easy to maintain.
+
 ---
-For fetcher bug handling, we are developing a fetcher prioritization index, so that we can handle fetcher bug in a better way,
-by designating importance for fetchers based on the ad network last 30 days revenue divided by 30 .    
+Major features done in this sprint consisting of Adding Manual Network Params Editor for DFP. This way, 
+adops will be able to add new params themselves. 
 ---
-All and all, these are the major features that has been implemented in this sprint:
----
-- Migrating Configurator from tools into pubguru |
-- Notifications improvements: (1) filtering notifications based on user related pubs and (2) we already have notification template for adops to use  |
-- As usual, lots of backend/server improvements |
+Another major features that eventually not getting deployed to production as it need more UI/UX expert, 
+is Creating Per-Publisher Mapping UI for PubGuru Ad Networks to DFP Line Items.
+
+Site filtering added for GumGum fetcher, and the usual fetcher bug fixes        
 ---
 ### THAT'S ALL FOLKS!
-- As usual, we still have lots of room for improvement.|
-- Mainly the way we do Code Review need to be improved, as that phase is the longest to take and may block our speed of acquiring story points for a sprint. | 
-- Probably, as suggessted by Anton, we can make Friday as the official day of Code Review-ing.  |
-- Also, now we are deploying new features to production every early Monday |
+- Last but not least, we try to maintain these routines now:
+- * Daily jira story prioritization |
+- * Regression test every Monday |
+- * Production deployment every Tuesday |
+- * Faster and more responsive Code Review |
+- * But still, more room for improvement for the next sprint! |
