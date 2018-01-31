@@ -29,7 +29,7 @@ is Creating Per-Publisher Mapping UI for PubGuru Ad Networks to DFP Line Items.
 Site filtering added for GumGum fetcher, and the usual fetcher bug fixes        
 ---
 ### THAT'S ALL FOLKS!
-- Last but not least, we try to maintain these routines now:
+- * Last but not least, we try to maintain these routines now: |
 - * Daily jira story prioritization |
 - * Regression test every Monday |
 - * Production deployment every Tuesday |
